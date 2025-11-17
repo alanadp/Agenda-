@@ -1,0 +1,16 @@
+INSERT INTO compromissos (descricao) VALUES
+  ('Consulta Médica 🏥'),
+  ('Aula / Prova 📚'),
+  ('Reunião de Trabalho 💼'),
+  ('Aniversário 🎉'),
+  ('Lembrete Importante 🔔'),
+  ('Compromisso Familiar 👨‍👩‍👧'),
+  ('Entrega / Prazo 📦'),
+  ('Pagamento 💳'),
+  ('Atividade Escolar 📝'),
+  ('Exame Médico 🧪'),
+  ('Visita Técnica 🛠️'),
+  ('Churrasco 🍖'),
+  ('Ginásio / Academia 🏋️'),
+  ('Dentista 😬'),
+  ('Viagem ✈️');
